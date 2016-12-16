@@ -1,0 +1,18 @@
+.container {
+    max-width:600px;
+    margin:auto;
+}
+.container div {
+    width:90%;
+    margin:auto;
+}
+.popular>ul>li {
+    list-style:none;
+}
+.popular>ul>li>img {
+    height: 50px;
+    display:inline-block;
+}
+.itemInfo {
+    display:inline-block;
+}
